@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 12.5px;
+  background-color: hsl(30, 38%, 92%);
+}
+
+.product {
+  margin: 20px 15px;
+  border-bottom-left-radius: 10px;
+  width: 340px;
+}
+
+.desktop {
+  display: block;
+  max-width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.text {
+  background-color: hsl(0, 0%, 100%);
+  padding: 20px 20px;
+}
+
+.perfume {
+  font-family: "Montserrat";
+  letter-spacing: 0.3rem;
+  color: hsl(228, 12%, 48%);
+}
+
+h1 {
+  margin: 15px 0;
+  line-height: 1;
+  font-family: "Fraunces";
+  font-size: 1.8rem;
+}
+
+.desc {
+  font-family: "Montserrat";
+  color: hsl(228, 12%, 48%);
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.prices {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 200px;
+  margin-bottom: 20px;
+}
+.price1 {
+  font-family: "Fraunces";
+  color: hsl(158, 36%, 37%);
+  font-size: 2rem;
+}
+
+.price2 {
+  font-family: "Montserrat";
+  color: hsl(228, 12%, 48%);
+  text-decoration: line-through;
+  font-size: 0.8rem;
+}
+
+.img2 {
+  margin-right: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.button {
+  background-color: hsl(158, 36%, 37%);
+  color: #fff;
+  font-family: "Montserrat";
+  border-radius: 10px;
+  width: 100%;
+  padding: 10px 0;
+  border: none;
+  margin-bottom: 10px;
+}
+
+.button:hover {
+  background-color: hsl(158, 36%, 19%);
+}
+
+@media (min-width: 376px) {
+  body {
+    width: 1440px;
+  }
+  .product {
+    display: flex;
+    width: 600px;
+    margin: 200px auto;
+  }
+  .mobilediv {
+    width: 300px;
+  }
+  .desktop {
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 10px;
+  }
+  .text {
+    width: 300px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 25px;
+  }
+
+  .perfume {
+    margin-top: 15px;
+  }
+
+  .desc {
+    font-size: 13px;
+  }
+}
