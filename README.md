@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./product-preview-card/images/Screenshot_Product_preview.png)
+![][./defproduct-preview-card/images/screenshot_product_preview.png]
 
 ### Links
 
@@ -36,10 +36,8 @@ Users should be able to:
 
 ## My process
 
-1. I added background color to the body of the page
-2. I created a div with class of "div-product" to serve as parent div. I then created two seperate div (div-image) and (div-description) to serve as place holder for the product image and the text (description)
-3. For desktop view, I used display: flex to align the divs in a row
-4. I used external CSS for the styling of this challange
+1. I created a div with class of "div-product" to serve as parent div. I then created two seperate div (div-image) and (div-description) to serve as place holder for the product image and the text (description)
+2. For desktop view, I used "display: flex" to align the divs in a row
 
 ### Built with
 
@@ -89,3 +87,5 @@ I am beginner, I started learning HTML/CSS some months ago, I am following a tut
 ## Author
 
 - Frontend Mentor - [@ruffwise](https://www.frontendmentor.io/profile/ruffwise)
+
+[def]: ./product-preview-card/images/Screenshot_Product_preview.png
