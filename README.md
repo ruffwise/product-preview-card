@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./product-preview-card-component-main/images/Screenshot 2022-09-24 at 16-26-38.png)
+![](./product-preview-card/images/Screenshot_Product_preview.png)
 
 ### Links
 
