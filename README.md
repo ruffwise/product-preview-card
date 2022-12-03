@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ruffwise/product-preview-card](https://github.com/ruffwise/product-preview-card)
+- Live Site URL: [https://ruffwise.github.io/product-preview-card/](https://ruffwise.github.io/product-preview-card/)
 
 ## My process
 
@@ -83,8 +83,8 @@ I am beginner, I started learning HTML/CSS some months ago, I am following a tut
 
 ### Useful resources
 
-- [Example resource 1](https://webdesign.tutsplus.com/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015) - This helped with understanding how to use the picture element to display different picture.
-- [Example resource 2](https://www.youtube.com/watch?v=nHB-3WJTfSg) - This video helped me to better understand how to use the picture element.
+- [resource 1](https://webdesign.tutsplus.com/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015) - This helped with understanding how to use the picture element to display different picture.
+- [resource 2](https://www.youtube.com/watch?v=nHB-3WJTfSg) - This video helped me to better understand how to use the picture element.
 
 ## Author
 
