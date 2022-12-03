@@ -46,8 +46,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 1. I learnt how to use the picture element to display different pictures based on screen size
