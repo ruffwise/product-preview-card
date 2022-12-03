@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![][./defproduct-preview-card/images/screenshot_product_preview.png]
+![](images/Screenshot_Product_preview.png)
 
 ### Links
 
@@ -87,5 +87,3 @@ I am beginner, I started learning HTML/CSS some months ago, I am following a tut
 ## Author
 
 - Frontend Mentor - [@ruffwise](https://www.frontendmentor.io/profile/ruffwise)
-
-[def]: ./product-preview-card/images/Screenshot_Product_preview.png
