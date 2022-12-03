@@ -105,10 +105,13 @@ body {
 }
 
 @media (min-width: 376px) {
+  body {
+    margin: 0;
+  }
   .div-product {
     display: flex;
     width: 38rem;
-    margin: 10rem auto;
+    margin: 8rem auto;
   }
 
   .div-image {
